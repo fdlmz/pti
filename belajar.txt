@@ -5,3 +5,4 @@ Materi PTI
 4. Konversi Bilangan 
 5. Aplikasi Word 1
 6. Aplikasi Word 11
+7. Aplikasi Mandeley
