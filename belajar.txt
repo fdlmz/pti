@@ -3,5 +3,6 @@ Materi PTI
 2. Komponen komputer
 3. Sistem Bilangan 
 4. Konversi Bilangan 
-5. Aplikasi Word 1
-6. Aplikasi Word 11
+5. Aplikasi Word 1 (Atur Halaman)
+6. Aplikasi Word 11(Daftar isi)
+7. Aplikasi word 111 (Mail Merge)
